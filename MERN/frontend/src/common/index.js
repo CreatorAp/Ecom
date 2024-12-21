@@ -1,7 +1,7 @@
 // const backendDomain = "http://localhost:8080"
 
-//const backendDomain = process.env.BACKEND_URL     
-const backendDomain = "https://ecom-two-mu.vercel.app/"
+const backendDomain = process.env.BACKEND_URL     
+// const backendDomain = "https://ecom-two-mu.vercel.app/"
 
 const SummaryApi = {
     signUP : {
